@@ -1,0 +1,19 @@
+Arlin Castillo 0905-24-22303 Elder Pérez 0905-24-1631
+
+¡.¿Qué aprendiste sobre el flujo del trabajo con Git y GitHub?
+Aprendimos que el flujo de trabajo con Git y GitHub permite un control eficiente del código facilitando la colaboración en equipo y el manejo de versiones, seguido de de la realización de una versión de cambios en una rama.
+
+¡¡.¿Cómo fue la experiencia de trabajar en parejas? La experiencia fue interesante y enriquecedora ya que aprendí a coordinarme con mi compañero a resolver conflictos y a utilizar ramas para mantener el flujo de trabajo organizado. En general fue un proceso que me ayudo a mejorar mis habilidades de colaboración y a entender mejor como funcionan los proyectos en equipo.
+
+¿Encontraste algún conflicto? En realidad no encontramos ningún conflicto a la hora de la comunicación ya que cada uno utilizo sus propios conocimientos .
+El único conflicto fue al hacer cambios en diferentes líneas de código.
+
+¿Cómo lo resolviste? Abrimos el archivo y fuimos revisando cada mínimo detalle y así mismo la comunicación nos ayudo de mucho.
+
+¡¡¡.¿Que ventajas crees que tiene usar Git en proyectos de programación?
+Desde mi experiencia usar Git en proyectos de programación es una habilidad esencial. Al principio puede parecer complicado especialmente cuando hay conflictos pero con la practica se vuelve una herramienta indispensable. Aprender Git no solo mejora la organización del código sino que también ayuda a desarrollar una mentalidad mas estructurada con ventajas de Control de versiones, Trabajo en equipo eficiente, Manejo de ramas, Seguridad y respaldo, Colaboración con GitHub.
+
+Tarea 1 y 3
+Fue enviada la solicitud de Git Student la cual fue aceptada pero aun no contamos con los beneficios.
+
+https://github.com/ElderPerez24/mi-primer-proyecto-progra1.git 
